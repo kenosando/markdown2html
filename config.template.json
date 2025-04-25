@@ -1,0 +1,5 @@
+{
+  "PythonPath" : "C:\\Path\\To\\Python\\python.exe",
+  "PandocPath" : "C:\\Path\\To\\Pandoc\\pandoc.exe",
+  "MmdcPath" : "C:\\Path\\To\\Mmdc\\mmdc.ps1"
+}
