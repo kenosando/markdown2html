@@ -25,7 +25,7 @@ HM1 --flattenHTML--> HM2
 * Pandoc 3.0+
 * Mermaid CLI 11.0+
   * This will require a Chrome-based browser
-  * See the [mmdc documentation](https://mermaid.js.org/supported-tools/mermaid-cli.html) for more details
+  * See the [mmdc documentation](https://github.com/mermaid-js/mermaid-cli) for more details
 
 ## Usage Options
 
